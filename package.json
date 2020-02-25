@@ -1,0 +1,23 @@
+{
+  "name": "sbook",
+  "version": "1.0.0",
+  "description": "这是一本金庸小说简介",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxiaoyanD/sbook.git"
+  },
+  "keywords": [],
+  "author": "maxiaoyanD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxiaoyanD/sbook/issues"
+  },
+  "homepage": "https://github.com/maxiaoyanD/sbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
